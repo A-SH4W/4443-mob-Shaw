@@ -2,4 +2,4 @@
 
 |   #   | Folder Link | Assignment Description |
 | :---: | ----------- | ---------------------- |
-|   01  |[P04]()             |    Quizzler with API                  |
+|   01  |[P01]()             |    Quizzler with API                  |
